@@ -1,3 +1,5 @@
+**Forked from https://github.com/kuychaco/algoClass**
+
 # Exercises for Intro to Algorithms and Data Structures in JavaScript
 
 Welcome to the exercises. This is where the magic happens! 
