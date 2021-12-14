@@ -1,6 +1,7 @@
 **Forked from https://github.com/kuychaco/algoClass**
 
 # Exercises for Intro to Algorithms and Data Structures in JavaScript
+**https://frontendmasters.com/courses/data-structures-algorithms/**
 
 Welcome to the exercises. This is where the magic happens! 
 
